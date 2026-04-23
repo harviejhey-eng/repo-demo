@@ -1,0 +1,6 @@
+/* This is a CSS comment */
+p {
+    color: red;            /* Sets text color to red */
+    font-size: 20px;       /* Sets font size to 20 pixels */
+    text-align: center;    /* Centers the text */
+  }
